@@ -1,5 +1,5 @@
 
-**NEED TO OPTIMZE A CLIENT PERFORMANCE
+<h1>NEED TO OPTIMZE A CLIENT PERFORMANCE</h1>
 
 <h1>Weaviate <img alt='Weaviate logo' src='https://weaviate.io/img/site/weaviate-logo-light.png' width='148' align='right' /></h1>
 
